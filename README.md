@@ -1,7 +1,5 @@
 # поиск человека по фамилии и имени бесплатно: как проверить открытые данные
 
-[![Content validation](https://github.com/sherlock-tg-bot/poisk-cheloveka-po-familii-i-imeni-besplatno/actions/workflows/validate.yml/badge.svg)](https://github.com/sherlock-tg-bot/poisk-cheloveka-po-familii-i-imeni-besplatno/actions/workflows/validate.yml)
-
 Если нужно найти человека по фамилии и имени бесплатно, начните с открытых источников и относитесь к совпадению как к гипотезе, а не к доказательству личности. Одинаковые ФИО встречаются часто, а часть страниц бывает старой или содержит чужие данные. Ниже — практичный порядок поиска, способы перепроверки и границы законного использования.
 
 Для дополнительной навигации по открытым упоминаниям можно [Открыть в Telegram](https://go.sherlockbot.is/?utm_source=github&utm_medium=repository&utm_campaign=poisk-cheloveka-po-familii-i-imeni-besplatno). Это вспомогательный инструмент: он не заменяет первоисточник, согласие человека или официальную проверку.
