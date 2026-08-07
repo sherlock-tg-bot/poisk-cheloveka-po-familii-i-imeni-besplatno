@@ -1,0 +1,22 @@
+{
+  "position": 36,
+  "keyword": "поиск человека по фамилии и имени бесплатно",
+  "slug": "poisk-cheloveka-po-familii-i-imeni-besplatno",
+  "category": "Публичные данные",
+  "volume": 26000,
+  "demand": "Высокий",
+  "intent": "people_search",
+  "product": "Sherlock Bot",
+  "target_base": "https://go.sherlockbot.is/",
+  "target_url": "https://go.sherlockbot.is/?utm_source=github&utm_medium=repository&utm_campaign=poisk-cheloveka-po-familii-i-imeni-besplatno",
+  "repository_description": "Поиск человека по фамилии и имени бесплатно: практическое руководство, ограничения метода и проверка результата по первоисточнику.",
+  "repository_topics": [
+    "open-source-intelligence",
+    "digital-safety",
+    "russian-guide",
+    "sherlock-bot",
+    "telegram-bot",
+    "public-data",
+    "identity-verification"
+  ]
+}
